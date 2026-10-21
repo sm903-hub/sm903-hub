@@ -1,44 +1,45 @@
-# Hey there, I'm Shekhar Maharana 👋
+# Shekhar Maharana
 
-### Aspiring AI/ML Engineer 🤖
+**Aspiring AI/ML Developer | Computer Science Student**
 
-I'm a student passionate about technology and curious about how Artificial Intelligence and Machine Learning can solve real-world problems.
+I'm a Computer Science student interested in Artificial Intelligence, Machine Learning, and Python. I'm currently strengthening my programming fundamentals and learning by building small projects.
 
-I'm currently building my foundations in programming, learning new concepts, and working toward turning what I learn into practical projects.
+I use this GitHub profile to share my projects, practice coding, and document my progress as I learn.
 
----
+## Featured Project
 
-### 🌱 What I'm Learning
+### SMS Spam Detector
 
-- 🐍 Python programming
-- 🤖 Artificial Intelligence and Machine Learning
-- 🧩 Data Structures and Algorithms
-- 🗄️ SQL and database fundamentals
-- 📊 Data analysis and data mining
+A machine learning project that classifies SMS messages as spam or legitimate using text processing and a trained classification model.
 
-### 🎯 My Goals
+- **Language:** Python
+- **Model:** Multinomial Naive Bayes
+- **Text representation:** TF-IDF
+- **Test accuracy:** 97.04%
+- **Libraries:** Pandas, Scikit-learn, Joblib
 
-- Build my first practical AI/ML project.
-- Strengthen my programming and problem-solving skills.
-- Explore machine learning models and intelligent applications.
-- Learn by experimenting, practicing, and building consistently.
+[View project repository](https://github.com/sm903-hub/spam-message-detector)
 
-### 🛠️ Technologies I'm Exploring
+The model was evaluated on a held-out test set. Improving its ability to identify spam messages is one of the areas I would like to work on next.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Technologies
 
-### 📌 What You'll Find Here
+- **Languages:** Python, C, SQL
+- **Machine Learning:** Scikit-learn
+- **Data Analysis:** Pandas, NumPy
+- **Tools:** Git, GitHub, VS Code
 
-This profile will grow alongside my learning journey. As I gain experience, I'll share practice programs, experiments, and projects that demonstrate what I've learned.
+## Currently Learning
 
----
+- Machine Learning concepts and model evaluation
+- Data Structures and Algorithms
+- Data preprocessing and feature engineering
+- Building and improving practical projects
 
-### 💡 My Mindset
+## Goals
 
-> Every expert was once a beginner. Keep learning, keep building, and keep improving.
+My goal is to develop a strong foundation in AI and Machine Learning, work on more real-world problems, and become a better developer through consistent practice.
 
-Thanks for stopping by! ⭐
+## Contact
+
+GitHub: [@sm903-hub](https://github.com/sm903-hub)
